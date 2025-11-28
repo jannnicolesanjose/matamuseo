@@ -1,0 +1,1646 @@
+{
+    "2ndfloor_ashtrayHDSD": {
+        "title": "Brass Pumpkin Garniture",
+        "description": "A solid brass pumpkin with a leaf themed lid cover of Asian craftsmanship most likely from Bangkok, Thailand used as a decorative object usually mass produced for the tourists in the late 1940's.",
+        "recommendation": [
+            "2ndfloor_vase3HDSD",
+            "2ndfloor_shell1",
+            "2ndfloor_pinkroom_womanHDSD"
+        ],
+        "room": "2nd Floor: Volada",
+        "asset": "assets/relics_images/official_relics/2ndfloor_ashtray.jpg",
+        "original_id": "2ndfloor_ashtrayHDSD"
+    },
+    "2ndfloor_blueroom_arinolaHDSD": {
+        "title": "Servicio",
+        "description": "Wooden servicio chair. It also has a rectangular decorative throw pillow, with bundled wheat designs on its blue silk fabric, ornamented with round blue tassles.",
+        "recommendation": [
+            "2ndfloor_blueroom_pillowrackHDSD",
+            "2ndfloor_diningarea_chairHDSD",
+            "2ndfloor_livingarea_mariposachair"
+        ],
+        "room": "2nd Floor: Cuarto de Senyorito (blue room)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_blueroom_arinola.jpg",
+        "original_id": "2ndfloor_blueroom_arinolaHDSD"
+    },
+    "2ndfloor_blueroom_bed1HDSD": {
+        "title": "Contemporary Bed",
+        "description": "A contemporary single bed with caning, the two boards on the opposite ends have ebony and ivory inlay in a floral patter, the four legs are topped with balustered finials and ending on reeded cylindrical feet.",
+        "recommendation": [
+            "2ndfloor_blueroom_bed3HDSD",
+            "2ndfloor_kitchen_cribHDSD",
+            "2ndfloor_pinkroom_bedroom2HDSD"
+        ],
+        "room": "2nd Floor: Cuarto de Senyorito (blue room)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_blueroom_bed1.jpg",
+        "original_id": "2ndfloor_blueroom_bed1HDSD"
+    },
+    "2ndfloor_blueroom_bed2HDSD": {
+        "title": "Four-poster Ah Tay Bed with Canopy and Mosquietero Lace",
+        "description": " Antique Bed / Ah Tay Bed - Known as \"calabasa\" bed for its squash ornaments at mid-posts. It has a carved back of  elaborate head board. Supporting the canopy are four (4) posts topped with stylized pineapple carving. It also has a white canopy lace wth floral design ang stemmed flowerettes along the edge of lower part; usually used as valence. Draped to the bed is for decorative and to provide a protective barrier against insects is the mosquitero lace.",
+        "recommendation": [
+            "2ndfloor_blueroom_bed3HDSD",
+            "2ndfloor_pinkroom_bed1HDSD",
+            "2ndfloor_pinkroom_bedroom2HDSD"
+        ],
+        "room": "2nd Floor: Cuarto de Senyorito (blue room)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_blueroom_bed2",
+        "original_id": "2ndfloor_blueroom_bed2HDSD"
+    },
+    "2ndfloor_blueroom_bed3HDSD": {
+        "title": "Four-poster Bed",
+        "description": "A narra wooden four-poster bed with heavy turned legs and posts; canopy of two sections with upper section mouldings; Three stretchers; Headboard has a double frame enclosing a central quatrefoil with scrolling vine ends. Crest in similar but smaller design motif. It has a white Canopy Lace with acanthus design and small flowers along the edge used as valence. Its white lace bedsheet is with embroidered flowerettes and scrolled leaf design on the surface.",
+        "recommendation": [
+            "2ndfloor_blueroom_bed2HDSD",
+            "2ndfloor_pinkroom_bedroom2HDSD",
+            "2ndfloor_pinkroom_bed1HDSD"
+        ],
+        "room": "2nd Floor: Cuarto de Senyorito (blue room)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_blueroom_bed3.jpg",
+        "original_id": "2ndfloor_blueroom_bed3HDSD"
+    },
+    "2ndfloor_blueroom_cribHDSD": {
+        "title": "Crib",
+        "description": "A baby's crib. Specifically, a wooden narra bedroom crib with a curve top canopy, four tapered poster supports topped with baluster finials; with spindle sides and four turned legs; in natural varnish finish",
+        "recommendation": [
+            "2ndfloor_blueroom_bed2HDSD",
+            "2ndfloor_kitchen_cribHDSD",
+            "2ndfloor_pinkroom_bed1HDSD"
+        ],
+        "room": "2nd Floor: Cuarto de Senyorito (blue room)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_blueroom_crib.jpg",
+        "original_id": "2ndfloor_blueroom_cribHDSD"
+    },
+    "2ndfloor_blueroom_pillowrackHDSD": {
+        "title": "Pillow Rack",
+        "description": "This pillow rack is an oddly long and narrow repository of pillows with open sides. Underneath its shelf is a compartment  closed in by two (2) plain sliding panel doors. Its pediment has floral carving. It stores white cloth case pillows which are stuffed with cotton.",
+        "recommendation": [
+            "2ndfloor_blueroom_storagebox1HDSD",
+            "2ndfloor_blueroom_storagebox2HDSD",
+            "2ndfloor_blueroom_arinolaHDSD"
+        ],
+        "room": "2nd Floor: Cuarto de Senyorito (blue room)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_blueroom_pillowrack.jpg",
+        "original_id": "2ndfloor_blueroom_pillowrackHDSD"
+    },
+    "2ndfloor_blueroom_storagebox1HDSD": {
+        "title": "Chest",
+        "description": "A rectangular brown wooden chest with carved Chinese motif on each side, big brass latch in front.",
+        "recommendation": [
+            "2ndfloor_blueroom_pillowrackHDSD",
+            "2ndfloor_blueroom_storagebox2HDSD",
+            "2ndfloor_livingarea_mariposachair"
+        ],
+        "room": "2nd Floor: Cuarto de Senyorito (blue room)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_blueroom_storagebox1.jpg",
+        "original_id": "2ndfloor_blueroom_storagebox1HDSD"
+    },
+    "2ndfloor_blueroom_storagebox2HDSD": {
+        "title": "Chest",
+        "description": "A massive wooden container locally known as baul used for safekeeping of clothes and other family treasure. The top surface has a sun burst bone in lay designs which was patterned at the frontal facade with lanite marquetry as borders. ",
+        "recommendation": [
+            "2ndfloor_blueroom_pillowrackHDSD",
+            "2ndfloor_blueroom_storagebox1HDSD",
+            "santozaguan5_closetHDSD"
+        ],
+        "room": "2nd Floor: Cuarto de Senyorito (blue room)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_blueroom_storagebox2.jpg",
+        "original_id": "2ndfloor_blueroom_storagebox2HDSD"
+    },
+    "2ndfloor_calladoHDSD": {
+        "title": "Wooden Callado",
+        "description": "\"narra\" wooden floor \"callado\" (open wood work) panel with central triangular pattern of leafy scrolls and curved strips.",
+        "recommendation": [
+            "2ndfloor-chandelierHDSD",
+            "2ndfloor_window1HDSD",
+            "2ndfloor_narradoorsHDSD"
+        ],
+        "room": "2nd Floor: Alcove",
+        "asset": "assets/relics_images/official_relics/2ndfloor_callado.jpg",
+        "original_id": "2ndfloor_calladoHDSD"
+    },
+    "2ndfloor-chandelierHDSD": {
+        "title": "Crystal Chandelier",
+        "description": "Cut crystal chandelier with four (4) shafts. Upper shaft has vase like cut crystal with dangling cut-glass crystals. Two other shafts on the middle has minimal dangling cut-glass crystals. Lower shafts has bulbous designs. Four snake arms form the lower shaft with white ceramic gasoloier with milk shade. The gasolier are joined with four strands of cut-glass crystals.",
+        "recommendation": [
+            "2ndfloor_calladoHDSD",
+            "2ndfloor_pinkroom_lampHDSD",
+            "2ndfloor_livingarea_lampHDSD"
+        ],
+        "room": "2nd Floor: Alcove",
+        "asset": "assets/relics_images/official_relics/2ndfloor_livingarea_chandelier.jpg",
+        "original_id": "2ndfloor-chandelierHDSD"
+    },
+    "2ndfloor_clockHDSD": {
+        "title": "Clock",
+        "description": "An antique table clock with two child sitting on the opposite side, the rectagular base support has a floral design apron; scrolled acanthus leaves serve as legs on four corners.",
+        "recommendation": [
+            "2ndfloor_pinkroom_womanHDSD",
+            "2ndfloor_pinkroom_lampHDSD",
+            "2ndfloor_livingarea_lampHDSD"
+        ],
+        "room": "2nd Floor: Caida (receiving area)",
+        "asset": "assets/relics_images/2ndfloor_clockHD.jpg",
+        "original_id": "2ndfloor_clockHDSD"
+    },
+    "2ndfloor_diningareaHDSD": {
+        "title": "Comedor (Dining Room)",
+        "description": "The comedor or dining room is a well-furnished area intended for fine lunches and dinners. On each side of the crystal chandelier are old punkah ceiling fans, once pulled by servants to keep flies away as the household dined. Vajilleras for the crystal, silver and chinaware stand against the walls. Rendered in Estilo Tampinco or the Philippine art nouveau style, the comedor also features original architectural carvings from the Hizon house in Angeles, Pampanga, pieces from the Sullipan collection of the Arnedo-Gonzales family gifted by Grand Duke Alexis of Russia, early 19th-century chinoiseries, and an 18-seater narra dining table framed in kamagong.",
+        "recommendation": [
+            "2ndfloor_diningarea_chairHDSD",
+            "2ndfloor_kitchenareaHDSD",
+            "2ndfloor_livingareaconsolidatedHDSD"
+        ],
+        "room": "2nd Floor: Comedor (dining room)",
+        "asset": "assets/relics_images/2ndfloor_diningarea.jpg",
+        "original_id": "2ndfloor_diningareaHDSD"
+    },
+    "2ndfloor_diningarea_chairHDSD": {
+        "title": "Lazy Chair (\"Silla Perezosa\")",
+        "description": "This wooden lounging chair, known as the Silla Perezosa, is a variation of the popular butaca chair. It features a full-caned seat and backrest, extended flat armrests, two baluster-type front legs supported with flanges, and two splayed rear legs joined by a simple stretcher. Designed with a reclined back for short naps and leisure, the chair reflects comfort and elegance in 19th-century domestic life. This piece is part of Museo de La Salle’s Santos Joven Panlilio Collection from the Joven-Panlilio ancestral home in Bacolor, Pampanga, with many items collected over the years by Jose Ma. Ricardo Panlilio, the museum’s founding director.",
+        "recommendation": [
+            "2ndfloor_diningarea_fanHDSD",
+            "2ndfloor_livingarea_mariposachair",
+            "2ndfloor_livingarea_chairHDSD"
+        ],
+        "room": "2nd Floor: Comedor (dining room)",
+        "asset": "assets/relics_images/2ndfloor_diningarea_chair.jpg",
+        "original_id": "2ndfloor_diningarea_chairHDSD"
+    },
+    "2ndfloor_diningarea_fanHDSD": {
+        "title": "Punkah",
+        "description": "A fan, of Indian origin and design, that consists of a canvas-covered frame suspended from the ceiling and that is operated by a cord ",
+        "recommendation": [
+            "2ndfloor_diningarea_chairHDSD",
+            "2ndfloor_kitchen_kalabawtoolHDSD",
+            "2ndfloor_kitchen_ironHDSD"
+        ],
+        "room": "2nd Floor: Comedor (dining room)",
+        "asset": "assets/relics_images/2ndfloor_diningarea_fan.jpg",
+        "original_id": "2ndfloor_diningarea_fanHDSD"
+    },
+    "2ndfloor_diningarea_plate1HDSD": {
+        "title": "Tray",
+        "description": "Ceramic tray with four divisions. Designed with grapes and vines motif on its rim and center.",
+        "recommendation": [
+            "2ndfloor_diningarea_group1HDSD",
+            "2ndfloor_diningarea_pot2HDSD",
+            "2ndfloor_diningarea_waterjug2"
+        ],
+        "room": "2nd Floor: Volada",
+        "asset": "assets/relics_images/official_relics/2ndfloor_diningarea_plate1.jpg",
+        "original_id": "2ndfloor_diningarea_plate1HDSD"
+    },
+    "2ndfloor_diningarea_group1HDSD": {
+        "title": "Dinnerwares Cabinet",
+        "description": "These dinnerwares are trays varying in materials and purpose. The tray in the middle is a ceramic tray with four divisions, designed with grapes and vines motif on its rim and center. On its left is a candy tray with scrolled curlicued handle and scalloped edges of aluminum metal work material and etched decorations. On the right side of the table is an aluminum cake holder with food cover. These are on top of a cabinet used for keeping diningwares with four doors with handles and two cabinets on the opposite side, and its base has reeded design.",
+        "recommendation": [
+            "2ndfloor_diningarea_plate1HDSD",
+            "2ndfloor_diningarea_clocheHDSD",
+            "2ndfloor_diningarea_pot2HDSD"
+        ],
+        "room": "2nd Floor: Volada",
+        "asset": "assets/relics_images/2ndfloor_diningarea_group1.jpg",
+        "original_id": "2ndfloor_diningarea_group1HDSD"
+    },
+    "2ndfloor_diningarea_clocheHDSD": {
+        "title": "Aluminum Cloche (Food Cover)",
+        "description": "An aluminum cake holder in round shape ( 3 pieces )",
+        "recommendation": [
+            "2ndfloor_diningarea_plate1HDSD",
+            "2ndfloor_diningarea_group1HDSD",
+            "2ndfloor_diningarea_waterjug1HDSD"
+        ],
+        "room": "2nd Floor: Volada",
+        "asset": "assets/relics_images/2ndfloor_diningarea_pot1.jpg",
+        "original_id": "2ndfloor_diningarea_clocheHDSD"
+    },
+    "2ndfloor_diningarea_pot2HDSD": {
+        "title": "Soup Tureen",
+        "description": "A blue and white soup tureen with handles on the opposite sides, a cover with landscape design and an opening for ladle on the side",
+        "recommendation": [
+            "2ndfloor_diningarea_waterjug2",
+            "2ndfloor_diningarea_plate1HDSD",
+            "2ndfloor_diningarea_clocheHDSD"
+        ],
+        "room": "2nd Floor: Comedor (dining room)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_diningarea__pot2.jpg",
+        "original_id": "2ndfloor_diningarea_pot2HDSD"
+    },
+    "2ndfloor_diningarea_walllampHDSD": {
+        "title": "Sconce",
+        "description": "This crystal sconce features flat, leaf-shaped prisms on a gilded bronze wall bracket decorated with long acanthus leaves. Combining structure and ornament, such brackets draw from ancient Greco-Roman motifs where the acanthus leaf symbolized immortality and rebirth, later representing pain and suffering in Christian art. This piece is part of Museo de La Salle’s Santos Joven Panlilio Collection from the Joven-Panlilio ancestral home in Bacolor, Pampanga, with many items collected over the years by Jose Ma. Ricardo Panlilio, the museum’s founding director.",
+        "recommendation": [
+            "2ndfloor_pinkroom_lampHDSD",
+            "2ndfloor_livingarea_lampHDSD",
+            "2ndfloor-chandelierHDSD"
+        ],
+        "room": "2nd Floor: Comedor (dining room)",
+        "asset": "assets/relics_images/2ndfloor_diningarea_walllamp.jpg",
+        "original_id": "2ndfloor_diningarea_walllampHDSD"
+    },
+    "2ndfloor_diningarea_washstandHDSD": {
+        "title": "Bentwood Wash Stand",
+        "description": "Vienna Washstand with Wash basin - Graceful reproduction in the 19th century Vienna bentwood style. It consists of a screwed mirror, a porcelain basin and an undershelf where a pitcher is parked. The two bentwoods on the opposite sides of the basin serve as towel racks. The whole piece is sustained by three long and slim bentwood. (Basin in other location)",
+        "recommendation": [
+            "2ndfloor_hallway_washdishHDSD",
+            "stairs_hatrackHDSD",
+            "2ndfloor_kitchen_table"
+        ],
+        "room": "2nd Floor: Volada",
+        "asset": "assets/relics_images/official_relics/2ndfloor_diningarea_washstand.jpg",
+        "original_id": "2ndfloor_diningarea_washstandHDSD"
+    },
+    "2ndfloor_diningarea_waterjug1HDSD": {
+        "title": "Pitcher",
+        "description": "A silver pitcher with handle and flat base and simple design",
+        "recommendation": [
+            "2ndfloor_diningarea_waterjug2",
+            "2ndfloor_diningarea_plate1HDSD",
+            "2ndfloor_diningarea_clocheHDSD"
+        ],
+        "room": "2nd Floor: Comedor (dining room)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_diningarea_waterjug1.jpg",
+        "original_id": "2ndfloor_diningarea_waterjug1HDSD"
+    },
+    "2ndfloor_diningarea_waterjug2": {
+        "title": "Pitcher",
+        "description": "This tray contains two pitchers. The taller pitcher is the a silver pitcher with handle and flat base with embossed grapevine design.While the shorter and straight pitcher is also a silver pitcher, but with handle and ornate design on the lower part, the cover has a handle in triangular shape on top",
+        "recommendation": [
+            "2ndfloor_diningarea_waterjug1HDSD",
+            "2ndfloor_diningarea_plate1HDSD",
+            "2ndfloor_diningarea_clocheHDSD"
+        ],
+        "room": "2nd Floor: Comedor (dining room)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_diningarea_waterjug2.jpg",
+        "original_id": "2ndfloor_diningarea_waterjug2"
+    },
+    "2ndfloor_hallway_hamper": {
+        "title": "Hamper",
+        "description": "Clothes Hamper - A dirty cloth's bin made of wood with all sides caned to allow circulation of air. Dirty clothes are dropped at the lidded top. A full door at one side is opened when clothes are taken for laundry.",
+        "recommendation": [
+            "2ndfloor_hallway_washdishHDSD",
+            "2ndfloor_blueroom_pillowrackHDSD",
+            "2ndfloor_kitchen_prensademanoHDSD"
+        ],
+        "room": "2nd Floor: Volada",
+        "asset": "assets/relics_images/official_relics/2ndfloor_hallway_hamper.jpg",
+        "original_id": "2ndfloor_hallway_hamper"
+    },
+    "2ndfloor_hallway_washdishHDSD": {
+        "title": "Lavador",
+        "description": "This lavador contains two basins and a hand towel at the side. These white porcelain wash basins were usually used to contain water on top of a lavador. The basin at the top layer has a basin with blue and brown floral design and curved design around the brim, while the basin at the bottom layer has a heavy floral design in navy blue on both inner and outer surfaces.",
+        "recommendation": [
+            "2ndfloor_diningarea_washstandHDSD",
+            "2ndfloor_hallway_hamper",
+            "2ndfloor_diningarea_pot2HDSD"
+        ],
+        "room": "2nd Floor: Volada",
+        "asset": "assets/relics_images/official_relics/2ndfloor_hallway_washdish.jpg",
+        "original_id": "2ndfloor_hallway_washdishHDSD"
+    },
+    "2ndfloor_kitchen_bangaHDSD": {
+        "title": "Clay Burnay Jar",
+        "description": "This is a cone shaped burnay jar with combed side",
+        "recommendation": [
+            "2ndfloor_kitchen_bottleHDSD",
+            "vasezaguan_group1HDSD",
+            "vasezaguan_group2HDSD"
+        ],
+        "room": "2nd Floor: Cocina (kitchen)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_kitchen_banga.jpg",
+        "original_id": "2ndfloor_kitchen_bangaHDSD"
+    },
+    "2ndfloor_kitchen_bottleHDSD": {
+        "title": "Clay & Glass Bottles",
+        "description": "These bottles are displayed on top of the Food Cabinet which is made out of \"narra\" and balayong woods; part of doors decorated with two rows of turnings; open at the back. The bottles are either ceramic or blown glass containers with a neck that is narrower than the body and a \"mouth.\" Typically used to store liquids such as water, milk, soft drinks, beer, wine, cooking oil, medicine, etc. The bluish glass jars at the back are Demi John bottles which are also called “dama juana”. This large, green, oval-shaped jar was used for fermenting and storing vinegar or native wine.  ",
+        "recommendation": [
+            "2ndfloor_kitchen_bangaHDSD",
+            "2ndfloor_diningarea_group1HDSD",
+            "2ndfloor_kitchen_pugonHDSD"
+        ],
+        "room": "2nd Floor: Cocina (kitchen)",
+        "asset": "assets/relics_images/2ndfloor_kitchen_bottle.jpg",
+        "original_id": "2ndfloor_kitchen_bottleHDSD"
+    },
+    "2ndfloor_kitchen_cribHDSD": {
+        "title": "Rocking Crib",
+        "description": "This is a Rocking Crib made of wooden slats with ball points on top of the four (4) corner posts. The surface is caned.",
+        "recommendation": [
+            "2ndfloor_kitchen_table",
+            "2ndfloor_blueroom_cribHDSD",
+            "2ndfloor_blueroom_bed3HDSD"
+        ],
+        "room": "2nd Floor: Cocina (kitchen)",
+        "asset": "assets/relics_images/2ndfloor_kitchen_cribHD.jpg",
+        "original_id": "2ndfloor_kitchen_cribHDSD"
+    },
+    "2ndfloor_kitchen_prensadecoronaHDSD": {
+        "title": "Prensa de Corona",
+        "description": "Also known as Plancha Corona, this is a circular flat brass plancha Corona/ Flatirons, brass handle with attached wood.",
+        "recommendation": [
+            "2ndfloor_kitchen_ironHDSD",
+            "2ndfloor_kitchen_prensademanoHDSD",
+            "2ndfloor_kitchen_kalabawtoolHDSD"
+        ],
+        "room": "2nd Floor: Cocina (kitchen)",
+        "asset": "assets/relics_images/2ndfloor_kitchen_planchacorona.jpg",
+        "original_id": "2ndfloor_kitchen_prensadecoronaHDSD"
+    },
+    "2ndfloor_kitchen_ironHDSD": {
+        "title": "Prensa de Uling",
+        "description": "This is a clothes presser or an iron with red wooden handles. Plancha Corona: circular flat brass plancha Corona/ Flatirons, brass handle with attached wood.",
+        "recommendation": [
+            "2ndfloor_kitchen_prensadecoronaHDSD",
+            "2ndfloor_kitchen_prensademanoHDSD",
+            "2ndfloor_kitchen_kalabawtoolHDSD"
+        ],
+        "room": "2nd Floor: Cocina (kitchen)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_kitchen_iron.jpg",
+        "original_id": "2ndfloor_kitchen_ironHDSD"
+    },
+    "2ndfloor_kitchen_kalabawtoolHDSD": {
+        "title": "Yoke",
+        "description": "Wooden beam which is put into the carabao's neck to allow it to pull a load during farming.",
+        "recommendation": [
+            "2ndfloor_kitchen_ironHDSD",
+            "2ndfloor_kitchen_prensademanoHDSD",
+            "2ndfloor_studyroom_indiv3HDSD"
+        ],
+        "room": "2nd Floor: Cocina (kitchen)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_kitchen_kalabawtool.jpg",
+        "original_id": "2ndfloor_kitchen_kalabawtoolHDSD"
+    },
+    "2ndfloor_kitchen_kudkuranHDSD": {
+        "title": "Coconut Grater",
+        "description": "Grater (Kudkuran) is a slender metal with a sharp edged elliptical end attached on a Muslim inspired side carving block of wood. Known a “kudkuran” or “kayuran, it is common kitchen chattel used to grate or scrape the coconut meat.",
+        "recommendation": [
+            "2ndfloor_kitchen_sannicolasHDSD",
+            "2ndfloor_kitchen_stonegrinder1HDSD",
+            "2ndfloor_diningarea_group1HDSD"
+        ],
+        "room": "2nd Floor: Cocina (kitchen)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_kitchen_kudkuran.jpg",
+        "original_id": "2ndfloor_kitchen_kudkuranHDSD"
+    },
+    "2ndfloor_kitchen_prensademanoHDSD": {
+        "title": "Prensa de Mano",
+        "description": "Along with this is the Prensa Rolling Pin. This artifact is a laundryware tool, specifically a 3-piece molave wood cloth flattener known as pambolear or bamboolear. The rolled cloth over the cylindrical wood is pressed upon by the scintillating flat top board on the slightly concaved, heavy baseboard. The manual operated top board has a carved has a carved handle pressed consisted usually of native fibers like sinamay. The rolled cloth in between is a Philippine indegenous abaca fiber.",
+        "recommendation": [
+            "2ndfloor_kitchen_ironHDSD",
+            "2ndfloor_kitchen_prensadecoronaHDSD",
+            "2ndfloor_kitchen_kalabawtoolHDSD"
+        ],
+        "room": "2nd Floor: Cocina (kitchen)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_kitchen_prensademano.jpg",
+        "original_id": "2ndfloor_kitchen_prensademanoHDSD"
+    },
+    "2ndfloor_kitchen_pugonHDSD": {
+        "title": "Pugon",
+        "description": "A traditional, enclosed oven—often built of brick or stone and shaped like a dome or an \"igloo\"—that is wood-fired. It is in Cocina (kitchen), which was usually situated on the second floor or at the back portion of the Bahay na Bato to allow smoke to vent easily and to mitigate fire risk to the main structure.",
+        "recommendation": [
+            "2ndfloor_kitchen_bangaHDSD",
+            "2ndfloor_kitchen_sannicolasHDSD",
+            "2ndfloor_kitchen_stonegrinder1HDSD"
+        ],
+        "room": "2nd Floor: Cocina (kitchen)",
+        "asset": "assets/relics_images/2ndfloor_kitchen_pugonHD.jpg",
+        "original_id": "2ndfloor_kitchen_pugonHDSD"
+    },
+    "2ndfloor_kitchen_sannicolasHDSD": {
+        "title": "Cookie Mold",
+        "description": "A shallow handicarved mold for butter cake or wafer on rectangular hardwood. The two ornate designs are then pressed on wafer to obtain desired motif. In Pampanga, the buttery Pan de San Nicolas cookies are created using a special type of cookie mold called 'saniculas' molds. These molds are pressed onto the cookie dough to transfer the design on its surface, which is made all the more prominent after it was baked. The designs on the molds vary but they never fail to have the abstract figure of Saint Nicolas de Tolentino in the center, surrounded by circular and floral patterns. Some of these wooden molds have back-to-back designs, and most have the initials of the owners carved into them as well. ",
+        "recommendation": [
+            "2ndfloor_kitchen_kudkuranHDSD",
+            "2ndfloor_kitchen_stonegrinder1HDSD",
+            "2ndfloor_kitchen_pugonHDSD"
+        ],
+        "room": "2nd Floor: Cocina (kitchen)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_kitchen_sannicolas.jpg",
+        "original_id": "2ndfloor_kitchen_sannicolasHDSD"
+    },
+    "2ndfloor_kitchen_stonegrinder1HDSD": {
+        "title": "Quern-stone",
+        "description": "Stone device used to grind food products.",
+        "recommendation": [
+            "2ndfloor_kitchen_sannicolasHDSD",
+            "2ndfloor_kitchen_kudkuranHDSD",
+            "2ndfloor_kitchen_pugonHDSD"
+        ],
+        "room": "2nd Floor: Cocina (kitchen)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_kitchen_stonegrinder1.jpg",
+        "original_id": "2ndfloor_kitchen_stonegrinder1HDSD"
+    },
+    "2ndfloor_kitchen_sungkaHDSD": {
+        "title": "Sungkaan",
+        "description": "A sixteen (16) cup wooden gameboard. It is being played by two opponents each taking their rounds and turns at dropping cowrie shells, vying to amass the number of shells.",
+        "recommendation": [
+            "2ndfloor_kitchen_sannicolasHDSD",
+            "2ndfloor_kitchen_cribHDSD",
+            "2ndfloor_kitchen_kalabawtoolHDSD"
+        ],
+        "room": "2nd Floor: Cocina (kitchen)",
+        "asset": "assets/relics_images/2ndfloor_kitchen_sungkaHD.jpg",
+        "original_id": "2ndfloor_kitchen_sungkaHDSD"
+    },
+    "2ndfloor_kitchen_table": {
+        "title": "Gallinera Table",
+        "description": "Wooden table with a large chicken coop underneath. The coop has narrow slats opened by a sliding panel at the left side. Right above it is a cabinet partitioned into three designed panels but of a single door at the middle.",
+        "recommendation": [
+            "2ndfloor_kitchen_cribHDSD",
+            "santozaguan1_groupHDSD",
+            "santozaguan3_groupHDSD"
+        ],
+        "room": "2nd Floor: Cocina (kitchen)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_kitchen_table.jpg",
+        "original_id": "2ndfloor_kitchen_table"
+    },
+    "2ndfloor_kitchenareaHDSD": {
+        "title": "Cocina (Kitchen)",
+        "description": "Old Cocina or kitchens are connected to the house by a causeway or bridge because these are considered as a fire hazard during the time. Patterned after a 19th century house in Bucay, Abra, the cocina of the Museo features sawali walls and ceilings, a traditional igloo-shaped pugon or hurno (oven), several firewood-operated dapogan (open-pit stoves), as well as a restored authentic banggerahan. A banggerahan or traditional dish-dryer, contains porcelain plates and drinking glasses. Aside from being a traditional place for cooking, grain pounding, and dishwashing, the kitchen also serves as a service area for other household chores like sewing and clothes pressing.",
+        "recommendation": [
+            "2ndfloor_kitchen_pugonHDSD",
+            "2ndfloor_diningareaHDSD",
+            "2ndfloor_livingareaconsolidatedHDSD"
+        ],
+        "room": "2nd Floor: Cocina (kitchen)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_kitchenarea.jpg",
+        "original_id": "2ndfloor_kitchenareaHDSD"
+    },
+    "2ndfloor_livingarea_chairHDSD": {
+        "title": "Lounging Chair",
+        "description": "Narra Luis Quince style lounging chair with caned seat, double caned ovate-shaped back, scroll arms with extended arm rest on slightly curved stumps, lotus and foliate carved openwork crest with central cartouche, on metal strip-reinforced splayed front and rear legs. An oval shaped green and cream colored sheet covers the chair.",
+        "recommendation": [
+            "2ndfloor_table2",
+            "2ndfloor_diningarea_chairHDSD",
+            "2ndfloor_livingarea_mariposachair"
+        ],
+        "room": "2nd Floor: Caida (receiving area)",
+        "asset": "assets/relics_images/livingarea_chair.jpg",
+        "original_id": "2ndfloor_livingarea_chairHDSD"
+    },
+    "2ndfloor_livingareaconsolidatedHDSD": {
+        "title": "Caida and Sala Mayor",
+        "description": "The caida, or foyer, was the traditional receiving area for everyday visits. Women let down the trains of their saya here and later clipped their skirts to navigate the stairs. It also served as a multipurpose drawing room, furnished with espejos, butaca and perezosa chairs, silla frailuna, and Vienna bentwood pieces. Reflecting 1880 design, it features pressed metal ceilings, hand-painted walls, wide doors, and calado arches from the Santos-Joven-Panlilio house. \\n\\nBehind it is the sala mayor, the main living room for large parties and bailes. Inspired by the Spanish flag, it displays red and gold decor, Spanish Victorian wall paintings, and a hand-painted ceiling of Philippine birds. Carved Prince-of-Wales doors frame a collection that includes a 20-piece Carlos XIII suite, Venetian mirrors, Vienna bentwood sets, a French harp, marble-top tables, and mariposa sofas, with balayong and narra woodwork joined by pegs and dowels. The room also holds portraits of Don Jose Leon Santos and Doña Ramona Joven by Simon Flores.",
+        "recommendation": [
+            "2ndfloor_table1",
+            "2ndfloor_diningareaHDSD",
+            "2ndfloor_pinkroomHDSD"
+        ],
+        "room": "2nd Floor: Caida (receiving area) and Sala Mayor (main living room)",
+        "asset": "assets/relics_images/2ndfloor_livingarea_left.jpg",
+        "original_id": "2ndfloor_livingareaconsolidatedHDSD"
+    },
+    "2ndfloor_livingarea_lampHDSD": {
+        "title": "Brass Table Lamp with Virina",
+        "description": "Brass electric table lamp with deep glass virina in curly top lid and with floral designs. Bronze body has head figures all around the circular post in globular pattern. Base is circular.",
+        "recommendation": [
+            "2ndfloor_pinkroom_lampHDSD",
+            "2ndfloor-chandelierHDSD",
+            "2ndfloor_diningarea_walllampHDSD"
+        ],
+        "room": "2nd Floor: Cuarto de Senyorita (pink room)",
+        "asset": "assets/relics_images/2ndfloor_livingarea_lampHD.jpg",
+        "original_id": "2ndfloor_livingarea_lampHDSD"
+    },
+    "2ndfloor_livingarea_mariposachair": {
+        "title": "Mariposa Chair",
+        "description": "This Mariposa Chair is a local yet elegant version of the Victorian horsehair sofa, locally known as mariposa for its tall continuous caned back enveloping two butterfly wings. The backrest, framed with fluted C-scrolls, is crowned with carved flowers and leaf scrolls, while the caned seat rests on cabriole legs ending in scrolls that echo the armrests and terminate in paw feet adorned with floral carvings. This piece is part of Museo de La Salle’s Santos Joven Panlilio Collection from the Joven-Panlilio ancestral home in Bacolor, Pampanga, with many items collected over the years by Jose Ma. Ricardo Panlilio, the museum’s founding director.",
+        "recommendation": [
+            "2ndfloor_diningarea_chairHDSD",
+            "2ndfloor_blueroom_arinolaHDSD",
+            "2ndfloor_livingarea_chairHDSD"
+        ],
+        "room": "2nd Floor: Sala Mayor (main living room)",
+        "asset": "assets/relics_images/2ndfloor_livingarea_mariposachair.jpg",
+        "original_id": "2ndfloor_livingarea_mariposachair"
+    },
+    "2ndfloor_narradoorsHDSD": {
+        "title": "Door Panel",
+        "description": "A pair of wooden \"narra\" Volada doors with floral and acanthus motif design and made from  a single plank of wood.",
+        "recommendation": [
+            "2ndfloor_table3",
+            "2ndfloor_calladoHDSD",
+            "2ndfloor_window1HDSD"
+        ],
+        "room": "2nd Floor: Volada",
+        "asset": "assets/relics_images/official_relics/2ndfloor_nara_door.jpg",
+        "original_id": "2ndfloor_narradoorsHDSD"
+    },
+    "2ndfloor_pinkroomHDSD": {
+        "title": "Cuarto de Senyorita (pink room)",
+        "description": "This pink bedroom contains furnishings for the young mistress of the house. The cuarto de senyorita features the DM Guevarra and Arnedo-Gonzalez collections of narra four-poster bed with carved head, feet and canopy. It also showcases the wall and ceiling hand-painting patterned after the Constantino House in Balagtas, Bulacan. The hand painting, specifically on the ceiling, features the “trompe l’oeil” technique manifested in the floating butterflies. ",
+        "recommendation": [
+            "2ndfloor_pinkroom_bed1HDSD",
+            "2ndfloor_diningareaHDSD",
+            "2ndfloor_livingareaconsolidatedHDSD"
+        ],
+        "room": "2nd Floor: Cuarto de Senyorita (pink room)",
+        "asset": "assets/relics_images/2ndfloor_pinkroom.jpg",
+        "original_id": "2ndfloor_pinkroomHDSD"
+    },
+    "2ndfloor_pinkroom_bed1HDSD": {
+        "title": "Four-poster Bed (Peacock)",
+        "description": "Once a Malacañang bedroom furnishing, this \"peacock\" bed made of narra was passed down by the wife of American Gov. Gen. Leonard Wood who was an antique collector. Its turned legs connect to the four twisted poles supporting a canopy crowned with intricate trimmings like the grandiosity of the peacock. The fretted design of flowers and leaves in the headboard are centered by a peacock and surrounded by an ornamental crown of flowering tendrils. Adorning the canopy is a white lace bed curtain valence with embroidered flowerettes on the  surface.",
+        "recommendation": [
+            "2ndfloor_pinkroom_bedroom2HDSD",
+            "2ndfloor_blueroom_bed2HDSD",
+            "2ndfloor_blueroom_bed3HDSD"
+        ],
+        "room": "2nd Floor: Cuarto de Senyorita (pink room)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_pinkroom_bed1.jpg",
+        "original_id": "2ndfloor_pinkroom_bed1HDSD"
+    },
+    "2ndfloor_pinkroom_bedroom2HDSD": {
+        "title": "Four-poster Bed (Leaf and Vine)",
+        "description": "Antique wooden bed with canned bed rest and four (4) twisted posts supporting the canopy. Detailed carved head rest of leaf and vine design. It is adorned with a white lace curtain valance embroidered with leaf-and-flower patterns and flowerette edges, and white laced throw pillows with embroidered initials, calado, and foliage designs.",
+        "recommendation": [
+            "2ndfloor_pinkroom_bed1HDSD",
+            "2ndfloor_blueroom_bed3HDSD",
+            "2ndfloor_blueroom_bed2HDSD"
+        ],
+        "room": "2nd Floor: Cuarto de Senyorita (pink room)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_pinkroom_bedroom2.jpg",
+        "original_id": "2ndfloor_pinkroom_bedroom2HDSD"
+    },
+    "2ndfloor_pinkroom_lampHDSD": {
+        "title": "Brass Table Lamp with Virina",
+        "description": "Brass electric table lamp with deep glass virina in curly top lid and with floral designs. Bronze body has head figures all around the circular post in globular pattern. Base is circular.",
+        "recommendation": [
+            "2ndfloor_livingarea_lampHDSD",
+            "2ndfloor-chandelierHDSD",
+            "2ndfloor_diningarea_walllampHDSD"
+        ],
+        "room": "2nd Floor: Cuarto de Senyorita (pink room)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_pinkroom_lamp.jpg",
+        "original_id": "2ndfloor_pinkroom_lampHDSD"
+    },
+    "2ndfloor_pinkroom_table1HDSD": {
+        "title": "Round Table with Table Cloth",
+        "description": "\"Narra\" round table with wooden top on dove-tailed four-part frame. The large cylindrical post has relief-carved circular top pattern, central leaf pattern, applied reed bottom design and low C-scroll pattern on foliate-carved tripod legs and ball-claw feet.",
+        "recommendation": [
+            "2ndfloor_pinkroom_bed1HDSD",
+            "2ndfloor_table2",
+            "2ndfloor_table3"
+        ],
+        "room": "2nd Floor: Cuarto de Senyorita (pink room)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_pinkroom_table1.jpg",
+        "original_id": "2ndfloor_pinkroom_table1HDSD"
+    },
+    "2ndfloor_pinkroom_womanHDSD": {
+        "title": "Figurine",
+        "description": "European bronze figurine of a young lady seated on a metal cushion. She wears a dress but her nipple is exposed. The right hand is on the top of crossed legs while the left hand is in akimbo position. Her head looks up.",
+        "recommendation": [
+            "2ndfloor_livingarea_lampHDSD",
+            "2ndfloor_vase3HDSD",
+            "2ndfloor_ashtrayHDSD"
+        ],
+        "room": "2nd Floor: Cuarto de Senyorita (pink room)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_pinkroom_woman.jpg",
+        "original_id": "2ndfloor_pinkroom_womanHDSD"
+    },
+    "2ndfloor_santoroom6_elsuenoHDSD": {
+        "title": "Religious Painting 1",
+        "description": "This mural is painted directly on the walls in Oratorio. Please approach your tour guide for the story behind this painting.",
+        "recommendation": [
+            "2ndfloor_santoroom7_beside_elsuenoHDSD",
+            "2ndfloor_santoroom_stainedglassHDSD",
+            "2ndfloor_santoroom_shrineHDSD"
+        ],
+        "room": "2nd Floor: Oratorio (prayer room)",
+        "asset": "assets/relics_images/2ndfloor_santopainting.jpg",
+        "original_id": "2ndfloor_santoroom6_elsuenoHDSD"
+    },
+    "2ndfloor_santoroom7_beside_elsuenoHDSD": {
+        "title": "Religious Painting 2",
+        "description": "This mural is painted directly on the walls in Oratorio. Please approach your tour guide for the story behind this painting.",
+        "recommendation": [
+            "2ndfloor_santoroom6_elsuenoHDSD",
+            "2ndfloor_santoroom_stainedglassHDSD",
+            "2ndfloor_santoroom_shrineHDSD"
+        ],
+        "room": "2nd Floor: Oratorio (prayer room)",
+        "asset": "assets/relics_images/2ndfloor_santopainting2.jpg",
+        "original_id": "2ndfloor_santoroom7_beside_elsuenoHDSD"
+    },
+    "2ndfloor_santoroom_headlessHDSD": {
+        "title": "St. Joseph on Andas",
+        "description": "An image of \"St. Joseph\" garbed in green vestments without the head and right hand. This is placed on top of \"Andas\" which is a  silver plated processional carriage carried on shoulders ornamented with casted metal designs and 15 glass virinas.",
+        "recommendation": [
+            "2ndfloor_santoroom_shrineHDSD",
+            "zaguan_carozzafloatHDSD",
+            "santoindiv_23HDSD"
+        ],
+        "room": "2nd Floor: Oratorio (prayer room)",
+        "asset": "assets/relics_images/2ndfloor_santoroom_headlessHD.jpg",
+        "original_id": "2ndfloor_santoroom_headlessHDSD"
+    },
+    "2ndfloor_santoroom5HDSD": {
+        "title": "Santo Body",
+        "description": "The wooden image of Our Lady of the Most Holy Rosary, with ivory head (Paulino Que) is garbed in a Victorian fashion, a style of clothing in the Victorian era, or the reign of Queen Victoria (1837–1901).  The Virgin's gown bloomed into exaggerated skirt and sleeves, moved to small shoulders and even wider skirts supported by crinolines or hoops (de bastidor).  Aureola (JRPanlilio another entry), corona, baston and diadema adorn the image.  Cherubs surrounds the clouds where the image is enthroned.",
+        "recommendation": [
+            "2ndfloor_santoroom_shrineHDSD",
+            "santoindiv_1HDSD",
+            "santoindiv_6HDSD"
+        ],
+        "room": "2nd Floor: Oratorio (prayer room)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_santoroom_mamamary.jpg",
+        "original_id": "2ndfloor_santoroom5HDSD"
+    },
+    "2ndfloor_santoroom4HDSD": {
+        "title": "Mannequin with Liturgical Vestments (Capa Fluvial, Stole, Dalmatica, and Sobrepeliz)",
+        "description": "A mannequin displaying a complete set of liturgical vestments worn by a priest or bishop. The ensemble includes a capa fluvial, a special cape used during processions; a stole, a silk scarf-like vestment with floral designs, gold-embroidered crosses, and tassels; a dalmatica, a wide-sleeved vestment with slit sides; and a sobrepeliz or surplice, a loose white garment with wide sleeves worn over the cassock (sotana).",
+        "recommendation": [
+            "2ndfloor_santoroom_headlessHDSD",
+            "2ndfloor_santoroom5HDSD",
+            "zaguan_carozzafloatHDSD"
+        ],
+        "room": "2nd Floor: Oratorio (prayer room)",
+        "asset": "assets/relics_images/official_relics/2ndfloor_santoroom_santoboy.jpg",
+        "original_id": "2ndfloor_santoroom4HDSD"
+    },
+    "2ndfloor_santoroom_shrineHDSD": {
+        "title": "Altar",
+        "description": "The altar features three saintly images: San Jose (St. Joseph) at the center, holding a silver cane with a carved lily, flanked by the Sacred Heart of Jesus on the left and the Immaculate Heart of Mary on the right which were both commissioned for the Joven-Panlilio family chapel in Bacolor, Pampanga, blessed in 1905/07. These figures are enshrined within an open-sided wooden urna with turned columns and a gilded canopy of six-pointed stars and a cross crest. Beneath it stands the main wooden altar table or gradilla, a two-leveled structure with gilded rosettes, acanthus leaves, and motifs of stars and flowers. Adorned with candles and religious images, the altar served as the household’s center for daily prayers and expressions of faith in 19th-century ilustrado homes.",
+        "recommendation": [
+            "2ndfloor_santoroom5HDSD",
+            "santoindiv_23HDSD",
+            "santoindiv_30HDSD"
+        ],
+        "room": "2nd Floor: Oratorio (prayer room)",
+        "asset": "assets/relics_images/2ndfloor_santoroom_shrineHD.jpg",
+        "original_id": "2ndfloor_santoroom_shrineHDSD"
+    },
+    "2ndfloor_santoroom_stainedglassHDSD": {
+        "title": " Our Lady of the Holy Rosary",
+        "description": "Stained Glass image of the Our Lady of the Holy Rosary commisioned with the KRAUT Company. This stunning Mary of the Holy Rosary Stained Glass Window is a depiction of San Jose tenderly holding the Niño Jesus in his arms.",
+        "recommendation": [
+            "2ndfloor_santoroom6_elsuenoHDSD",
+            "2ndfloor_santoroom7_beside_elsuenoHDSD",
+            "2ndfloor_santoroom_shrineHDSD"
+        ],
+        "room": "2nd Floor: Oratorio (prayer room)",
+        "asset": "assets/relics_images/2ndfloor_santoroom_stainedglassHD.jpg",
+        "original_id": "2ndfloor_santoroom_stainedglassHDSD"
+    },
+    "2ndfloor_shell1": {
+        "title": "Shell",
+        "description": "A hard, protective outer layer of a mollusk that is used for decorative purposes.",
+        "recommendation": [
+            "2ndfloor_vase3HDSD",
+            "2ndfloor_ashtrayHDSD",
+            "2ndfloor_pinkroom_womanHDSD"
+        ],
+        "room": "2nd Floor: Volada",
+        "asset": "assets/relics_images/official_relics/2nddfloor_shell1.jpg",
+        "original_id": "2ndfloor_shell1"
+    },
+    "2ndfloor_studyroomHDSD": {
+        "title": "Despacho",
+        "description": "The despacho, or office, is a key room in a bahay na bato where the master meets with his kasama, encargados, and business associates. It holds items like borroughs adding machines, a tankard, and crystal decanters. It also serves as his intellectual space, displaying old books, silver-tipped pointers, ink wells, letras y figuras paintings, hunting trophies, and a “Scott” radio-phonograph to showcase the Don’s taste, status, and masculinity.",
+        "recommendation": [
+            "2ndfloor_studyroom_indiv2HDSD",
+            "2ndfloor_diningareaHDSD",
+            "2ndfloor_pinkroomHDSD"
+        ],
+        "room": "2nd Floor: Despacho (office)",
+        "asset": "assets/relics_images/2ndfloor_studyroom.jpg",
+        "original_id": "2ndfloor_studyroomHDSD"
+    },
+    "2ndfloor_studyroom_indiv1HDSD": {
+        "title": "Salacot",
+        "description": "A traditional wide-brimmed hat in the Philippines made of gourd, embossed with silver around the headgear's brim and finial.",
+        "recommendation": [
+            "2ndfloor_studyroom_indiv2HDSD",
+            "stairs_hatsHDSD",
+            "stairs_bastonsHDSD"
+        ],
+        "room": "2nd Floor: Despacho (office)",
+        "asset": "assets/relics_images/2ndfloor_studyroom_indiv1.jpg",
+        "original_id": "2ndfloor_studyroom_indiv1HDSD"
+    },
+    "2ndfloor_studyroom_indiv2HDSD": {
+        "title": "Ash Tray",
+        "description": "A silver ashtray in the form of a fish. A receptacle is carved at the top central part for ashes and butts. Two opposite small strips of metal are positioned to hold cigarettes.",
+        "recommendation": [
+            "2ndfloor_studyroom_indiv1HDSD",
+            "2ndfloor_diningarea_waterjug2",
+            "2ndfloor_diningarea_waterjug1HDSD"
+        ],
+        "room": "2nd Floor: Despacho (office)",
+        "asset": "assets/relics_images/2ndfloor_studyroom_indiv2.jpg",
+        "original_id": "2ndfloor_studyroom_indiv2HDSD"
+    },
+    "2ndfloor_studyroom_indiv3HDSD": {
+        "title": "Whip",
+        "description": "This is a riding whip with its long, rigid main body featuring a reeded pattern. The end is leather braided that is supposed to hold the long leather lash in place.",
+        "recommendation": [
+            "2ndfloor_studyroom_indiv1HDSD",
+            "2ndfloor_kitchen_kalabawtoolHDSD",
+            "2ndfloor_kitchen_ironHDSD"
+        ],
+        "room": "2nd Floor: Despacho (office)",
+        "asset": "assets/relics_images/2ndfloor_studyroom_indiv3.jpg",
+        "original_id": "2ndfloor_studyroom_indiv3HDSD"
+    },
+    "2ndfloor_studyroom_table1HDSD": {
+        "title": "Side Table",
+        "description": "Kamagong wooden side table with fine lightwood inlaid frame with four cabriole legs with inlay. Feet have also inlay with solid and reeded bracket.",
+        "recommendation": [
+            "2ndfloor_studyroom_indiv1HDSD",
+            "2ndfloor_table4",
+            "santozaguan11_bedsidetableHDSD"
+        ],
+        "room": "2nd Floor: Despacho (office)",
+        "asset": "assets/relics_images/2ndfloor_studyroom_table1.jpg",
+        "original_id": "2ndfloor_studyroom_table1HDSD"
+    },
+    "2ndfloor_table1": {
+        "title": "Round Table with Manton de Manila",
+        "description": "A balayong hardwood round table with large turned cylindrical central post with central top gadroons and applied bottom reed. It has tripod legs with scroll design and lion's paw feet. Over the table is called the Manton de Manila which is a silk beige shawl with floral and vine designs; with loop designs and long flowing fringes popular in the XIX century. With long tassels, the frayed edges were made apart and carefully sewed up. Small oriental flowers added for a more colored motif, incorporating samples of the autochthonous flora.  The mantones can also be hanged on the furniture, balconies, and can be on the piano like a part of the decoration.",
+        "recommendation": [
+            "2ndfloor_table2",
+            "2ndfloor_pinkroom_table1HDSD",
+            "santozaguan1_groupHDSD"
+        ],
+        "room": "2nd Floor: Caida (receiving area)",
+        "asset": "assets/relics_images/2ndfloor_table1.jpg",
+        "original_id": "2ndfloor_table1"
+    },
+    "2ndfloor_table2": {
+        "title": "Round Table",
+        "description": "A small narra round table wherein the tabletop is supported by the legs planted on a triangular base with three (3) claw-on-ball feet affixed at the tip. At the extended rim of the tabletop is encrusted with a series of diamond shaped kamagong wood.",
+        "recommendation": [
+            "2ndfloor_livingarea_chairHDSD",
+            "2ndfloor_table3",
+            "tablezaguanHDSD"
+        ],
+        "room": "2nd Floor: Caida (receiving area)",
+        "asset": "assets/relics_images/2ndfloor_table2.jpg",
+        "original_id": "2ndfloor_table2"
+    },
+    "2ndfloor_table3": {
+        "title": "Side Table",
+        "description": "Wooden \"narra\" rectangular side table with interlocking scroll designs on the sides. Four legs are in baluster-type ending in bun feet and supported with an X-stretcher with an urn finials.",
+        "recommendation": [
+            "2ndfloor_table2",
+            "tablezaguanHDSD",
+            "2ndfloor_table4"
+        ],
+        "room": "2nd Floor: Volada",
+        "asset": "assets/relics_images/official_relics/2ndfloor_table3.jpg",
+        "original_id": "2ndfloor_table3"
+    },
+    "2ndfloor_table4": {
+        "title": "Altar Table",
+        "description": "Made from fine kamagong wood, the style manifests a keen sense of elegance with minimal lanite marquetry on side posts and on the face of the three (3) drawers as well as the alternate kamagong and narra railings beneath the two (2) side drawers. Right beneath the central drawer is a carved apron. Knobbed drawers have each a keyhole. The turned legs are reeded at the central portion.",
+        "recommendation": [
+            "2ndfloor_table3",
+            "2ndfloor_table2",
+            "santozaguan11_bedsidetableHDSD"
+        ],
+        "room": "2nd Floor: Volada",
+        "asset": "assets/relics_images/2ndfloor_table4.jpg",
+        "original_id": "2ndfloor_table4"
+    },
+    "2ndfloor_vase1HDSD": {
+        "title": "Ceramic Plant Pot",
+        "description": "A cylindrical white ceramic planter with scalloped design painted with light green around the lip; the body is painted with green dots and curved lines and the lower part is embossed with woven patterns.",
+        "recommendation": [
+            "2ndfloor_vase4HDSD",
+            "2ndfloor_vase5HDSD",
+            "2ndfloor_vase2HDSD"
+        ],
+        "room": "2nd Floor: Volada",
+        "asset": "assets/relics_images/official_relics/2ndfloor_vase1.jpg",
+        "original_id": "2ndfloor_vase1HDSD"
+    },
+    "2ndfloor_vase2HDSD": {
+        "title": "Celadon Plant Pot",
+        "description": "A Chinese celadon planter or flower pot of Chinese celadon with handpainted floral decorations (with damaged bottoms); normally used as a decorative object inside the interior of the Bahay na Bato.",
+        "recommendation": [
+            "2ndfloor_vase5HDSD",
+            "2ndfloor_vase1HDSD",
+            "2ndfloor_vase4HDSD"
+        ],
+        "room": "2nd Floor: Volada",
+        "asset": "assets/relics_images/official_relics/2ndfloor_vase2.jpg",
+        "original_id": "2ndfloor_vase2HDSD"
+    },
+    "2ndfloor_vase3HDSD": {
+        "title": "Marble",
+        "description": "This is a display object in the Bahay na Bato, which is made of marble. This is a decorative furnishing.",
+        "recommendation": [
+            "2ndfloor_shell1",
+            "2ndfloor_ashtrayHDSD",
+            "2ndfloor_pinkroom_womanHDSD"
+        ],
+        "room": "2nd Floor: Volada",
+        "asset": "assets/relics_images/official_relics/2ndfloor_vase3.jpg",
+        "original_id": "2ndfloor_vase3HDSD"
+    },
+    "2ndfloor_vase4HDSD": {
+        "title": "Ceramic Plant Pot",
+        "description": "A green ceramic  plant pot with flat round base and flattened lip around the top opening.",
+        "recommendation": [
+            "2ndfloor_vase1HDSD",
+            "2ndfloor_vase5HDSD",
+            "2ndfloor_vase2HDSD"
+        ],
+        "room": "2nd Floor: Volada",
+        "asset": "assets/relics_images/official_relics/2ndfloor_vase4.jpg",
+        "original_id": "2ndfloor_vase4HDSD"
+    },
+    "2ndfloor_vase5HDSD": {
+        "title": "Plant Pot",
+        "description": "A large, round plant pot with Chinese motif of birds, butterflies, and branches with leaves. It has gorgeous colors, but is mainly white and blue, and it has gold accents.",
+        "recommendation": [
+            "2ndfloor_vase1HDSD",
+            "2ndfloor_vase4HDSD",
+            "2ndfloor_vase2HDSD"
+        ],
+        "room": "2nd Floor: Volada",
+        "asset": "assets/relics_images/2ndfloor_vase5.jpg",
+        "original_id": "2ndfloor_vase5HDSD"
+    },
+    "2ndfloor_window1HDSD": {
+        "title": "Capiz Bintana",
+        "description": "These is a three framed capiz screen (made of Capiz/oyster shells) arranged in square patterns, with a carved rectangular bottom. These windows are designed to slide open. Above it is another screen in diamond shape pattern with top double wooden finials. \n\nAround the house, some has a secondary screen called Persiana, which are window shutters made of overlapping horizontal louvered screen slats on window panels made of wood, and it also has carved rectangular bottoms like the Capiz windows.",
+        "recommendation": [
+            "2ndfloor_narradoorsHDSD",
+            "2ndfloor_calladoHDSD",
+            "2ndfloor_santoroom_shrineHDSD"
+        ],
+        "room": "2nd Floor: Volada",
+        "asset": "assets/relics_images/2ndfloor_window1.jpg",
+        "original_id": "2ndfloor_window1HDSD"
+    },
+    "jewelriesHDSD": {
+        "title": "Jewelries",
+        "description": "This collection of jewelry and accessories includes necklaces, bracelets, earrings, Pantuche (hairpin), Peineta (hair comb), and keyholders in gold, silver, and wood. The necklaces feature wooden beads or alokong chains with filigree crucifix pendants, while the bracelets display gargantilla and tambourine floral motifs. The hair pieces (pantuche and peineta) are used to secure church veils, are adorned with chased leaf, floral, and tambourine designs. Earrings show curvilinear engravings, and silver keyholders bear floral, heart, butterfly, and lovebird motifs that clasp onto the waistline of a woman’s saya.",
+        "recommendation": [
+            "santozaguan3_groupHDSD",
+            "2ndfloor_santoroom_shrineHDSD",
+            "2ndfloor_santoroom5HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/jewelries.jpg",
+        "original_id": "jewelriesHDSD"
+    },
+    "kalesazaguanHDSD": {
+        "title": "Caretela",
+        "description": "Carriage (Kalesa) - An all wicker bamboo passenger carriage from the Cagayan Province in Northern Luzon. This horse-driven carriage can fit only one person at a time.",
+        "recommendation": [
+            "vasezaguan_group2HDSD",
+            "stairs_hatsHDSD",
+            "stairs_bastonsHDSD"
+        ],
+        "room": "1st Floor: Zaguan (storage area)",
+        "asset": "assets/relics_images/kalesazaguan_1.JPG",
+        "original_id": "kalesazaguanHDSD"
+    },
+    "santoindiv_wall2HDSD": {
+        "title": "Sto. Niño (Relleve | Top Relic) and Saint Anthony of Padua (Relief | Bottom Relic)",
+        "description": "Sto. Niño - Carved out from molave wood, the Santo Niño renders Caucasian feature characterized by prominent cheeks though the nose is defaced. His crown appears heavy occupying the same length as his face. The knee-length white tunic with floral design is vested with a flowing cape in symmetrical flow down the geometric base. Above the image rests an arch carving simulating curtains. \\n\\nSaint Anthony of Padua -  Wooden carved relief of Saint Anthony of Padua portrayed wearing a multiple linear folds of his tunic and a standing cowl neckline. The right hand holds the bunch of lilies while the left hand is occupied with a book where the unclothed Child Jesus stands. Both heads of the images are scalloped in round circle to simulate a halo. The image stands on a square base that bears his name.\",",
+        "recommendation": [
+            "santoindiv_wall6HDSD",
+            "santoindiv_wall7HDSD",
+            "santoindiv_11HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/santoindiv_wall2HDSD.JPG",
+        "original_id": "santoindiv_wall2HDSD"
+    },
+    "santoindiv_wall3HDSD": {
+        "title": "La Purisima Conception (Immaculate Conception) (Relleve)",
+        "description": "Relleve - La Purisima Concepcion (Immaculate Concepcion) - Carved out from hard wood, the simple representation of the Our Lady of the Immaculate Concepcion is portrayed with clasped hands at her breast in praying gesture. Her unusually large crown rimmed with floral carving sets her hair flawlessly at her back. The two (2) columns at her sides enclose the image in visual focus. The undefined floral design in the entire retablo is a Baroque style.",
+        "recommendation": [
+            "santoindiv_11HDSD",
+            "santozaguan13_wallgroup2",
+            "santoindiv_wall7HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_wall3.jpg",
+        "original_id": "santoindiv_wall3HDSD"
+    },
+    "santoindiv_wall4HDSD": {
+        "title": "Virgin Mary (Relleve)",
+        "description": "Relleve - Virgin Mary - Carved from a hard wood, the image of the Virgin marry is portrayed wearing a long, heavy mantle covering her forehead. It has a outlined globe and a coiling serpent beneath her feet. The relief carving on top compliments the style of her garments which has heavy, distinct lines.",
+        "recommendation": [
+            "santozaguan13_wallgroup2",
+            "santoindiv_wall3HDSD",
+            "santoindiv_11HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_wall4.jpg",
+        "original_id": "santoindiv_wall4HDSD"
+    },
+    "santoindiv_wall5HDSD": {
+        "title": "Crucifixion (Retable)",
+        "description": "Retable; Crucifixion - Wooden wood relief of the scene of the Crucifixion. Mounted on a hill is the cross where Christ Jesus hangs looking down to His mother at His right side. The Blessed Virgin in turn looks at her Son sorrowfully. On the left side is Saint John with his right hand on his chest.",
+        "recommendation": [
+            "santoindiv_wall4HDSD",
+            "santoindiv_wall6HDSD",
+            "santoindiv_wall3HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_wall5.jpg",
+        "original_id": "santoindiv_wall5HDSD"
+    },
+    "santoindiv_wall6HDSD": {
+        "title": "Saint Anthony of Padua (Icon | Top Relic) and Cristo de la Pacencia (Relief | Bottom Relic)",
+        "description": "Saint Anthony of Padua - Wooden carved image of Saint Anthony of Padua dressed in a long robe with a fold at the hem. His waist is cinctured and the shoulder is donned with a capucha. \\n\\nCristo de la Pacencia -  Wooden carved relief of the Scourging at the Pillar of Jesus.Christ is shown seated on the boulder of rock in sorrowful countenance. A rope hangs around his neck with its end tied to his waist. He holds a wooden staff and upon his head a crown of thorns. The whole figure is applied with “encarnado” technique as well as the halo to stimulate a light and dark streaks of light.\"",
+        "recommendation": [
+            "santoindiv_wall2HDSD",
+            "santoindiv_wall7HDSD",
+            "santozaguan13_wallgroup2"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/santoindiv_wall6HDSD.jpg",
+        "original_id": "santoindiv_wall6HDSD"
+    },
+    "santoindiv_wall7HDSD": {
+        "title": "Unidentified Saint (Relleve | Top Relic) and Our Lady of Mount Carmel (Nuestra Señora del Carmen)  (Relleve | Bottom Relic)",
+        "description": "Unidentified Saint - Carved from hard wood, the relief of unidentified saint is portrayed seated and garbed in flowing raiment. His feature is almost defaced and void of expression. His right hand raises a palm leaf and his left hand at his breast. Crowning the relief is a leaf and floral carving. \\n\\nOur Lady of Mount Carmel (Nuestra Señora del Carmen) - Carved out from molave wood, the image of Our Lady of Carmel is portrayed with the Child Jesus holding a scapular with His left hand. The Mother holds a scapular with her right hand.  She has big bulging eyes and flat forehead. Noticeably imposing is the crown that his covered with her wavy falling hair down to her shoulders. Added features of the relief are the heavy curtains as its background and the two (2) candle holders at the base.\",",
+        "recommendation": [
+            "santozaguan13_wallgroup2",
+            "santoindiv_wall6HDSD",
+            "santoindiv_wall1HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/santoindiv_wall7HDSD.jpg",
+        "original_id": "santoindiv_wall7HDSD"
+    },
+    "santoindiv_1HDSD": {
+        "title": "Mater Dolorosa (Our Lady of Sorrows) (Santo Virgin)",
+        "description": "Santo Virgin from Cebu - Mater Dolorosa (Our Lady of Sorrows) - Carved from molave wood, this image is depicted in a sorrowful state exemplified by her bent head and downcast eyes. The headrays encompass the image. She wears a mantle that is singly folded up to the edges. All overly painted in estofado style with gold floral design and is painted white with blue mantle outlined in red to simulate the folds of the gown.",
+        "recommendation": [
+            "santoindiv_27HDSD",
+            "santoindiv_19HDSD",
+            "santoindiv_6HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_1.jpg",
+        "original_id": "santoindiv_1HDSD"
+    },
+    "santoindiv_10HDSD": {
+        "title": "Unidentified Saint (Icon)",
+        "description": "Icon - Unidentified Saint - Wooden carved image of unidentified saint / shepherd seated on a rock with hands against his breast. He has well textured hair as well as the carving of the sheepskin-like garment. The facial expression is well distinct. Its left foot was carved out from a different wood block and attached only top the leg.",
+        "recommendation": [
+            "santoindiv_23HDSD",
+            "santoindiv_9HDSD",
+            "santoindiv_12HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_10.jpg",
+        "original_id": "santoindiv_10HDSD"
+    },
+    "santoindiv_11HDSD": {
+        "title": "Immaculate Concepcion (Relleve | Ancestral Molave Altar Piece)",
+        "description": "Relleve; Ancestral Molave Altar Piece - Immaculate Concepcion - Molave wood cut altar piece with a distinctly European style illustrated by the two (2) Gothic columns and  flanges at each side. At the center is the projection of the Blessed Virgin's image crushing a serpent's head coiling over a globe. Above her is the Greek alphabet \"A\" (Beginning) with a representation of God on top. Hovering around the  Blessed Virgin are cherubs enveloped in clouds. Atop the piece is a floral carved crown.",
+        "recommendation": [
+            "santoindiv_wall3HDSD",
+            "santozaguan13_wallgroup2",
+            "santoindiv_wall2HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_11.jpg",
+        "original_id": "santoindiv_11HDSD"
+    },
+    "santoindiv_12HDSD": {
+        "title": "Saint John (Icon)",
+        "description": "Icon - Saint John - Wooden image of Saint John in tattered clothes. Right below his missing arm is a knotted cincture. His hair falls limply at his shoulders. The underlying red estofado of his robe is visible. A bag hangs indistinctively at his left waistline extending down to his right side. ",
+        "recommendation": [
+            "santoindiv_23HDSD",
+            "santoindiv_29HDSD",
+            "santoindiv_10HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_12.jpg",
+        "original_id": "santoindiv_12HDSD"
+    },
+    "santoindiv_13HDSD": {
+        "title": "Saint Vincent Ferrer (Icon)",
+        "description": "Icon - Saint Vincent Ferrer - Cut from solid block of wood, the image is cylindrically formed with minimal carving. The body is painted with streaks of black to simulate tunic fold. The cape which hangs flat till mid-waist has narrow collar underwhich is shown a painted heart. The face has wide eyes open with lifted brows. Mouth is outlined with a mustache and beard. Depicted also with his right hand raised and forefinger raised heavenward while his left hand holds a book.",
+        "recommendation": [
+            "santoindiv_22HDSD",
+            "santoindiv_23HDSD",
+            "santoindiv_24HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_13.jpg",
+        "original_id": "santoindiv_13HDSD"
+    },
+    "santoindiv_14HDSD": {
+        "title": "Santo Niño (Icon)",
+        "description": "Icon - Santo Niño - Wooden carved image of Santo Niño. The Image evoked power and authority in its regalia which suggests pomp and riches. It is depicted holding on its left hand and a globe surmounted with a cross while the right was raised in salutation.                                    Source: Rene Dizon",
+        "recommendation": [
+            "santoindiv_28HDSD",
+            "santoindiv_20HDSD",
+            "santoindiv_7HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_14.jpg",
+        "original_id": "santoindiv_14HDSD"
+    },
+    "santoindiv_15HDSD": {
+        "title": "San Roque (Icon)",
+        "description": "Icon - San Roque - Wooden carve image of San Roque dressed as a pilgrim with a pouch slang across his shoulder. On his left thigh is an open wound where an Angel stands holding a piece of bread.",
+        "recommendation": [
+            "santoindiv_26HDSD",
+            "santoindiv_17HDSD",
+            "santoindiv_23HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_15.jpg",
+        "original_id": "santoindiv_15HDSD"
+    },
+    "santoindiv_16HDSD": {
+        "title": "Saint Anthony of Padua (Icon)",
+        "description": "Icon - Saint Anthony of Padua - Wooden carved image of Saint Anthony of Padua dressed in a long robe with a fold at the hem. His waist is cinctured and the shoulder is donned with a capucha.",
+        "recommendation": [
+            "santoindiv_23HDSD",
+            "santoindiv_25HDSD",
+            "santoindiv_21HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_16.jpg",
+        "original_id": "santoindiv_16HDSD"
+    },
+    "santoindiv_17HDSD": {
+        "title": "San Roque (Icon)",
+        "description": "Icon - San Roque - Garbed in a well - trimmed cape.",
+        "recommendation": [
+            "santoindiv_26HDSD",
+            "santoindiv_15HDSD",
+            "santoindiv_23HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_17.jpg",
+        "original_id": "santoindiv_17HDSD"
+    },
+    "santoindiv_18HDSD": {
+        "title": "Blessed Virgin Mary (Icon)",
+        "description": "Icon - Blessed Virgin Mary - Wooden carved image of the Blessed Virgin Mary with her hands joined together in prayer. She holds a folded hanky in between hands. She wears white robe and black mantle. She has almost flat features and her hair falls back in soft strands highlighting her slightly hunched back.",
+        "recommendation": [
+            "santoindiv_21HDSD",
+            "santoindiv_23HDSD",
+            "santoindiv_9HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_18.jpg",
+        "original_id": "santoindiv_18HDSD"
+    },
+    "santoindiv_19HDSD": {
+        "title": "Mater Dolorosa (Our Lady of Sorrows) (Santo)",
+        "description": "Santo - Mater Dolorosa - Carved from a single hardwood, the image (Mater Dolorosa) is  portrayed in a poignantly sad state executed in her long face. She clutches at her bosom a folded hanky. She dons a long, straight mantle down her ankle. Her white tunic is done in blue \"estofado\" to simulate brocade.",
+        "recommendation": [
+            "santoindiv_27HDSD",
+            "santoindiv_1HDSD",
+            "santoindiv_28HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_19.jpg",
+        "original_id": "santoindiv_19HDSD"
+    },
+    "santoindiv_2HDSD": {
+        "title": "Madonna and Child (Santo Virgin)",
+        "description": "Santo Virgin - Madonna and Child - Rested on a cloud-like carved pedestal, the image of the Blessed Virgin Mary is garbed with red tunic where simulated circular lacework is designed at the edges. Her long, curly hair fall flat at the mid-waist without mantle on. Bedecked with accessories, her left hand supports a standing Child Jesus garbed with loose robe. Her right hand holds a palm.",
+        "recommendation": [
+            "santoindiv_3HDSD",
+            "santoindiv_6HDSD",
+            "santoindiv_27HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_2.jpg",
+        "original_id": "santoindiv_2HDSD"
+    },
+    "santoindiv_20HDSD": {
+        "title": "Immaculate Concepcion (Icon)",
+        "description": "Icon - Immaculate Concepcion - Wooden image of the Immaculate Concepcion with an angle with floral carving adorning the crudely carved base. Her hair falls irregularly at the back. The white tunic, that is done in encardo, is bedecked with floral design over which is a blue mantle.",
+        "recommendation": [
+            "santoindiv_28HDSD",
+            "santoindiv_7HDSD",
+            "santoindiv_4HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_20.jpg",
+        "original_id": "santoindiv_20HDSD"
+    },
+    "santoindiv_21HDSD": {
+        "title": "Virgin Mary (Icon)",
+        "description": "Icon - Virgin Mary - Wooden carved image of the Virgin Mary depicted with both palms clasped in prayer gesture in unusually closed eyes. With tied cincture at her waist, the tunic has well-defined fold.",
+        "recommendation": [
+            "santoindiv_18HDSD",
+            "santoindiv_23HDSD",
+            "santoindiv_6HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_21.jpg",
+        "original_id": "santoindiv_21HDSD"
+    },
+    "santoindiv_22HDSD": {
+        "title": "Saint Vincent Ferrer (Icon)",
+        "description": "Icon - Saint Vincent Ferrer - Wooden image of saint Vincent Ferrer wearing a Dominican habit in heavy concentric fold. His cape is heavily laid on his shoulder and has a standing cowl on his neck. His right arm is raised as in a preaching gesture. His face shows calmness and serenity.",
+        "recommendation": [
+            "santoindiv_13HDSD",
+            "santoindiv_14HDSD",
+            "santoindiv_16HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_22.jpg",
+        "original_id": "santoindiv_22HDSD"
+    },
+    "santoindiv_23HDSD": {
+        "title": "Saint Joseph (Icon)",
+        "description": "Icon - Saint Joseph - Carved out from molave wood, the image is garbed with multifold garment in green and silver. On his  left arm hangs a red tunic. His straight hair is bluntly cut at the nape. The image is set on an octagonal base.",
+        "recommendation": [
+            "santoindiv_10HDSD",
+            "santoindiv_12HDSD",
+            "santoindiv_18HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_23.jpg",
+        "original_id": "santoindiv_23HDSD"
+    },
+    "santoindiv_24HDSD": {
+        "title": "St. Augustine (Icon)",
+        "description": "Icon - St. Augustine - Wooden carve image of Saint Augustine portrayed holding a book on his left hand while his right hand is in a preaching gesture. One end of his green colored tunic is tucked at the waist creating a heavy fold accentuated by a yellow mantle. His inner garment hangs freely with regular fold at the hem. Stands on a box-like base that is slightly mortar in shape.",
+        "recommendation": [
+            "santoindiv_12HDSD",
+            "santoindiv_23HDSD",
+            "santoindiv_10HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_24.jpg",
+        "original_id": "santoindiv_24HDSD"
+    },
+    "santoindiv_25HDSD": {
+        "title": "Saint Anthony (Icon)",
+        "description": "Icon - Saint Anthony - Wooden carved image of Saint Anthony portrayed in meek gesture. The gradual movement in his body begins from the bent head down the exposed nape until the slight curvature of the saint’s cassock in contrast to the heavy girdle in gold. The cowl of his habit known as the capache stands stiffly away from his neck. Made of wood, the face is done in “encarnado” while the cassock is done in estofado gold line trimming. ",
+        "recommendation": [
+            "santoindiv_16HDSD",
+            "santoindiv_10HDSD",
+            "santoindiv_23HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_25.jpg",
+        "original_id": "santoindiv_25HDSD"
+    },
+    "santoindiv_26HDSD": {
+        "title": "San Roque (Icon)",
+        "description": "Icon - San Roque - Wooden carved image of San Roque with a small pouch bag slung across his left shoulder. Lifting his garment on his right thigh reveals a wound. The thick streak of his beard is well-trimmed and his curly hair falls flat on his back.",
+        "recommendation": [
+            "santoindiv_15HDSD",
+            "santoindiv_17HDSD",
+            "santoindiv_23HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/santoindiv_26HDSD.jpg",
+        "original_id": "santoindiv_26HDSD"
+    },
+    "santoindiv_27HDSD": {
+        "title": "Mater Dolorosa (Our Lady of Sorrows) (Santo Virgin)",
+        "description": "Santo Virgin - Mater Dolorosa - Wooden carved image of the Mater Dolorosa in a sullen demeanor but with eyes raised heavenwards. The ends of her mantle as well as her sleeves  are carved  in parallel style. Its tunic is white with gold trimmings. The soft vertical lines simulating the folds of her black mantle suggest tagalog artistry. The double layered base upon which the image stands is fashioned with floral carving at its surrounding. ",
+        "recommendation": [
+            "santoindiv_1HDSD",
+            "santoindiv_19HDSD",
+            "santoindiv_6HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_27.jpg",
+        "original_id": "santoindiv_27HDSD"
+    },
+    "santoindiv_28HDSD": {
+        "title": "Immaculate Concepcion (Santo)",
+        "description": "Santo - Immaculate Concepcion - Carved out from a hard wood, the image (Immaculate Concepcion) is depicted with hands clasped in praying gesture at her breast. Done in \"estofado\" its white tunic accented with red-lined silver waistband is slightly raised exposing the tip of the virgin's feet. Her mantle is blue with pink lining to simulate its fold.",
+        "recommendation": [
+            "santoindiv_20HDSD",
+            "santoindiv_7HDSD",
+            "santoindiv_4HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_28.jpg",
+        "original_id": "santoindiv_28HDSD"
+    },
+    "santoindiv_29HDSD": {
+        "title": "Saint Christopher (Icon",
+        "description": "Icon - Saint Christopher - Wooden image of Saint Christopher portrayed as a burly young man with curly hair and prominent nose. On his broad shoulders sat the image of the Child Jesus. His right are is supposed to hold the child. He is garbed in a cloud suit with a belt knotted at the center and sleeves rolled up until forearm. Since he is known to ferry people across the river, he is depicted his pants rolled up to his knees.",
+        "recommendation": [
+            "santoindiv_12HDSD",
+            "santoindiv_23HDSD",
+            "santoindiv_10HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_29.jpg",
+        "original_id": "santoindiv_29HDSD"
+    },
+    "santoindiv_3HDSD": {
+        "title": "Madonna and Child (Icon)",
+        "description": "Icon - Madonna and Child - Wooden carved image of the Madonna and Child. The head of the Child on the Virgin's arm is missing as well as the right arm. One side of the long tunic of the Madonna is heavily folded on her left side. She is mounted on a round wood block with marked faces of angels.",
+        "recommendation": [
+            "santoindiv_2HDSD",
+            "santoindiv_21HDSD",
+            "santoindiv_30HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_3.jpg",
+        "original_id": "santoindiv_3HDSD"
+    },
+    "santoindiv_30HDSD": {
+        "title": "Holy Family (Icon)",
+        "description": "Wooden family portrait of the Holy Family (Joseph, Mary and Jesus) where all are garbed in heavy tunic of linear fold, thus rendering the images stocky and stiff. The Child Jesus has a sharp nose line similar to those of his parents. His hair is slightly curled at the ends. The muscled Saint Joseph is portrayed quite advance in age probably due to prominent head and long curled hair. His mantle appears heavy with fold while knotted at the center. Mary, on the other hand, is covered with mantle from head down the base with massive fold emphasized at her shoulders.\",",
+        "recommendation": [
+            "santoindiv_23HDSD",
+            "santoindiv_29HDSD",
+            "santoindiv_2HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/santoindiv_30HDSD.jpg",
+        "original_id": "santoindiv_30HDSD"
+    },
+    "santoindiv_4HDSD": {
+        "title": "Immaculate Concepcion",
+        "description": "Santo Virgin  - Immaculate Concepcion - Carved from a hardwood, the cylindrical shape image has long and fine strands of hair that hangs extremely flat at her back, coiling at its end, almost showing the contour of her head. Her face, void of expression, displays a saliently native feature of broad nose, large eyes and thick eyebrows. Over her shoulders fall a thin green mantle with sparing fold at its ends. An elongated carved hole over the plain white tunic simulates loose sleeves. The hexagonal greenish-yellow base where she stands is carved with a sense of detail which adds elegance to the image.",
+        "recommendation": [
+            "santoindiv_7HDSD",
+            "santoindiv_28HDSD",
+            "santoindiv_6HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_4.jpg",
+        "original_id": "santoindiv_4HDSD"
+    },
+    "santoindiv_5HDSD": {
+        "title": "Nuestra Señora de los Remedios (Our Lady of the Remedies) (Santo Virgin | Primitive)",
+        "description": " Santo Virgin; Primitive - Nuestra Señora de los Remedios (Our Lady of the Remedies) - Cylindrically carved out from hardwood, the image is  portrayed with stiff garment of silver or spun gold that simulates brocade. ",
+        "recommendation": [
+            "santoindiv_1HDSD",
+            "santoindiv_27HDSD",
+            "santoindiv_28HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_5.jpg",
+        "original_id": "santoindiv_5HDSD"
+    },
+    "santoindiv_6HDSD": {
+        "title": "Virgin Mary (Santo Virgin | Light Wood)",
+        "description": "Santo Virgin; Light Wood - Virgin Mary -  Carved from a hard wood, the image of the Virgin Mary shows native features. She is donned with an indistinctly carved crown with her hair falling aimlessly at her slightly hunched back. The wide angle fall and large folds of her ruffled mantle suggest a robust appearance. The loose sleeve folds are conspicuously carved down the low tunic neckline. The neckline of her robe is low giving an impression that the image is full-blossomed.",
+        "recommendation": [
+            "santoindiv_1HDSD",
+            "santoindiv_27HDSD",
+            "santoindiv_4HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_6.jpg",
+        "original_id": "santoindiv_6HDSD"
+    },
+    "santoindiv_7HDSD": {
+        "title": "Immaculate Concepcion (Santo)",
+        "description": "Santo; Immaculate Concepcion - Crafted out of hard wood, the image has round structured course hair drap -including her slightly hunched back. A fine fagged carving over her puffed up shirt simulate a lace top. At the base is carved a characteristic cherub in a flower-like interpretation whose outstretched wings assume the missing crescent horn. Traces of yellow and red paint along the gold trimmings are hardly visible.",
+        "recommendation": [
+            "santoindiv_4HDSD",
+            "santoindiv_28HDSD",
+            "santoindiv_20HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_7.jpg",
+        "original_id": "santoindiv_7HDSD"
+    },
+    "santoindiv_8HDSD": {
+        "title": "Nuestra Señora de la Consolacion (Icon)",
+        "description": "Icon - Nuestra Señora de la Consolacion -  Molave carved image of Nuestra Señora  de la Consolacion with a sharp gaze but diminutive smile on her lips. Her long hair fall flat on her back, and her noticeable large beruffled hands are clasped at her bosom. Done in estofado, the curvilinear etch along the mantle fold is almost distinct.",
+        "recommendation": [
+            "santoindiv_4HDSD",
+            "santoindiv_7HDSD",
+            "santoindiv_28HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_8.jpg",
+        "original_id": "santoindiv_8HDSD"
+    },
+    "santoindiv_9HDSD": {
+        "title": "Saint Anne (Icon)",
+        "description": "Icon - Saint Anne - Conical shaped wooden image of Saint Anne. Its facial features do not exude any emotions. The inflating eyes and unrefined lips tell of a native archetype. Her hands prefigure a prayerlike gesture wherein upon a folded hanky hangs. The course and uneven mantle hangs aimlessly from her head down over the waist.",
+        "recommendation": [
+            "santoindiv_10HDSD",
+            "santoindiv_23HDSD",
+            "santoindiv_12HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_9.jpg",
+        "original_id": "santoindiv_9HDSD"
+    },
+    "santoindiv_wall1HDSD": {
+        "title": "Nuestra Sra de Salvacion (Relief)",
+        "description": "Nuestra Sra de Salvacion - Wooden religious relief with an etched image of the Nuestra Señora del Salvacion with the Child Jesus being carried on her left arm. Two (2) saints intercede for the souls plunged in purgatory. The one on the right clutches her rosary while the one on the left reaches the hand of the Child Jesus in an imploring gesture. The Virgin / Image wears a white tunic with brown band at the waist and a blue cloak falls heavily on her shoulder.",
+        "recommendation": [
+            "santoindiv_wall7HDSD",
+            "santozaguan13_wallgroup2",
+            "santoindiv_11HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santoindiv_wall1.jpg",
+        "original_id": "santoindiv_wall1HDSD"
+    },
+    "zaguan_antingantinganHDSD": {
+        "title": "Anting-antingan",
+        "description": "The display cabinet contains Anting-anting which are generally 50-100 years old. Anting-anting are Filipino charms or amulets believed to offer protection from illness, enemies, and evil spirits, while attracting good fortune. These blend Catholic symbols with native occult symbols. Often made of wood, brass, or bronze, these amulets are associated with secret prayers, Latin incantations, and mystical codes, reflecting a fusion of religious devotion and indigenous beliefs. Their effectiveness depends not on their beauty or age, but on the faith and prayers of the ones wearing them.",
+        "recommendation": [
+            "santozaguan6_santoclosetHDSD",
+            "2ndfloor_santoroom5HDSD",
+            "santoindiv_11HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santozaguan_anting-anting.jpg",
+        "original_id": "zaguan_antingantinganHDSD"
+    },
+    "santozaguan1_groupHDSD": {
+        "title": "Altar Table with Santo Sculptures (1)",
+        "description": "Gallinera Table - Small, multi-purpose wooden table with two (2) button handled square drawers. The decorative slats enclose the paneled door compartment found beneath the drawers. Skirting the compartment is a jagged flange with rosette carving at both ends. The upper face of the rear side is adorned with a row of small railings.",
+        "recommendation": [
+            "santozaguan3_groupHDSD",
+            "2ndfloor_kitchen_table",
+            "santozaguan2_groupHDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/santozaguan1_groupHD.JPG",
+        "original_id": "santozaguan1_groupHDSD"
+    },
+    "santozaguan10_filipiniana_bluedressHDSD": {
+        "title": "Blue Baro't Saya (with panuelo)",
+        "description": "The traditional baro't saya worn by women. The inner white cotton sando is called the Baro, and this has openwork design around the neckline without sleeves. This was paired with the Skirt (Saya), an abaca fiber hewn blue floral saya. Completing the ensemble were the piña and panuelo which is folded diagonally into a triangle and worn draped over the shoulders and chest.",
+        "recommendation": [
+            "santozaguan9_filipiniana_dressHDSD",
+            "2ndfloor_kitchen_prensademanoHDSD",
+            "2ndfloor_studyroom_indiv1HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/santozaguan10_filipiniana_bluedressHDSD.JPG",
+        "original_id": "santozaguan10_filipiniana_bluedressHDSD"
+    },
+    "santozaguan11_bedsidetableHDSD": {
+        "title": "Altar Table",
+        "description": "Batangas designed altar table with four (4) keyholed drawers each having an alternating square bone inlay and kamagong wood at the faces. In between the two (2) smaller drawers is a flange also with alternating bone inlays and kamagong wood. The four (4) leg posts have lanite inlay",
+        "recommendation": [
+            "santozaguan2_groupHDSD",
+            "2ndfloor_table4",
+            "2ndfloor_studyroom_table1HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santozaguan11_bedsidetableHD.JPG",
+        "original_id": "santozaguan11_bedsidetableHDSD"
+    },
+    "santozaguan12_wallgroup1": {
+        "title": "San Vicente Ferrer (Santo | Top Relic) and Blessed Virgin Mary (Relief | Bottom Relic)",
+        "description": "Relief - Blessed Virgin Mary - Conical-shaped projection of the Blessed Virgin in a thick mantle with soft folds down her body. A small crucifix sits atop her crown. Her expressionless round face evokes a native-inspired feature, contrasting with the defaced image of Christ Jesus in her arms. The relief borders are framed with a Romanesque geometric pattern in vogue. \\n\\nSanto; Retable of San Vicente Ferrer from Bicol - Dressed in a white Dominican habit with a multi-fold black cloak, he is shown with his right hand raised and forefinger pointing heavenward, his left hand holding a book. He wears a large square scapular, almost unnoticed due to fading colors. His wings, done in estofado, use yellow, white, and black. Carvings of lilies appear, elaborate but not well defined. The same floral design and Dominican emblems enhance the overall appearance of the religious tablet.",
+        "recommendation": [
+            "santoindiv_11HDSD",
+            "santoindiv_27HDSD",
+            "santoindiv_1HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/santozaguan12_wallgroup1.JPG",
+        "original_id": "santozaguan12_wallgroup1"
+    },
+    "santozaguan13_wallgroup2": {
+        "title": "Calvary Scene (Relleve | Top Relic) and Mater Dolorosa (Our Lady of Sorrows) (Relleve | Bottom Relic)",
+        "description": "Santo Virgin - Mater Dolorosa (Our Lady of Sorrows) - Carved from a single piece of hardwood, the image is shown kneeling. She wears a white tunic heavily overlaid by a black mantle that flows from her head, curves at the shoulder, and reaches the ground with its ends tied at the center in a ribbon-like effect. A rosary hangs from her clasped hands. A rostrillo adorns her head, and candles stand on both sides of the base. \\n\\nRetable; Calvary Scene - Carved as a single scene, it depicts Christ’s death on the cross with the Blessed Virgin Mary and Saint John in the foreground. The cross stands on a heap of soil inscribed with crossed bones and a skull as symbols of death. To Christ’s left, the Virgin is shown sorrowful, dressed in a red tunic with a white wimple and a black mantle falling from her head, one end clasped in a praying gesture. Her halo is orange. Saint John wears a yellow tunic and a black mantle, his hands clasped at his breast.",
+        "recommendation": [
+            "santoindiv_wall7HDSD",
+            "santoindiv_11HDSD",
+            "santoindiv_wall3HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/santozaguan13_wallgroup2.JPG",
+        "original_id": "santozaguan13_wallgroup2"
+    },
+    "santozaguan14_wallgroup3": {
+        "title": "San Antonio (Relleve | Top Relic) and Saint Augustine (Relleve | Bottom Relic)",
+        "description": "Relief - Saint Augustine - Wooden carved relief of Saint Augustine shown with his mitre and staff. His right hand is raised with two fingers pointing. His facial features suggest a Moorish influence having a well groomed streaks of beard. He has a cinctures knotted at the center.",
+        "recommendation": [
+            "santoindiv_wall2HDSD",
+            "santoindiv_wall6HDSD",
+            "santoindiv_wall7HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/santozaguan14_wallgroup3.JPG",
+        "original_id": "santozaguan14_wallgroup3"
+    },
+    "santozaguan2_groupHDSD": {
+        "title": "Altar Table with Santo Sculptures (2)",
+        "description": "Mesa altar with cabriole legs terminating in an upward curl resting on a ball. The legs are elevated by wide stretchers. At the extreme sides of the lanite inlay and wooden knobbed drawers are slanted and jigsawed flanges supporting the extended tabletop. The apron beneath the two (2) drawers is carved at the center and at the extreme ends.",
+        "recommendation": [
+            "santozaguan3_groupHDSD",
+            "santozaguan1_groupHDSD",
+            "2ndfloor_kitchen_table"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/santozaguan2_groupHD.JPG",
+        "original_id": "santozaguan2_groupHDSD"
+    },
+    "santozaguan3_groupHDSD": {
+        "title": " Altar Table with Santo Sculptures (3)",
+        "description": "A Batangas crafted altar table consisting of two large button knobbed drawers under which hangs a curved apron. The cabriole legs rest on the wide stretchers which are further elevated by short carved base stands.",
+        "recommendation": [
+            "santozaguan1_groupHDSD",
+            "2ndfloor_kitchen_table",
+            "santozaguan2_groupHDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/santozaguan3_groupHD.JPG",
+        "original_id": "santozaguan3_groupHDSD"
+    },
+    "santozaguan4_groupHDSD": {
+        "title": "Cabinet (Aparador) with Santo Sculptures (4)",
+        "description": "A medium sized aparador made of both molave and kamagong wood. The two front doors are embellished with very ornate vineand floral carving in between the beaded oval outline. Each keyholed panel door has a wooden knob. The short robust legs posts are turned. ",
+        "recommendation": [
+            "santozaguan7_santoclosetHDSD",
+            "santozaguan8_santoclosetHDSD",
+            "santozaguan5_closetHDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santozaguan4_group.JPG",
+        "original_id": "santozaguan4_groupHDSD"
+    },
+    "santozaguan5_closetHDSD": {
+        "title": "Cabinet (Aparador)",
+        "description": "This Bulacan style aparador, particularly from Baliwag, is made of narra and kamagong. The crown, lancet-arch doors and the two small drawers below it are studded with bone inlays.in various patterns. The four base support are carved in layers.",
+        "recommendation": [
+            "santozaguan4_groupHDSD",
+            "santozaguan7_santoclosetHDSD",
+            "santozaguan8_santoclosetHDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santozaguan5_closet.JPG",
+        "original_id": "santozaguan5_closetHDSD"
+    },
+    "santozaguan6_santoclosetHDSD": {
+        "title": "Wooden Altar Piece",
+        "description": "Wooden Altar - Elaborate wooden molave case for a saint. The double Roman columns at the side exudes a sense of grandeur and antiquity.",
+        "recommendation": [
+            "santoindiv_11HDSD",
+            "santoindiv_wall7HDSD",
+            "santoindiv_23HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santozaguan6_santocloset.JPG",
+        "original_id": "santozaguan6_santoclosetHDSD"
+    },
+    "santozaguan7_santoclosetHDSD": {
+        "title": "Cabinet",
+        "description": "A medium sized aparador made of both molave and kamagong wood. The two front doors are embellished with very ornate vineand floral carving in between the beaded oval outline. Each keyholed panel door has a wooden knob. The short robust legs posts are turned.",
+        "recommendation": [
+            "santozaguan4_groupHDSD",
+            "santozaguan8_santoclosetHDSD",
+            "santozaguan5_closetHDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/santozaguan7_santoclosetHDSD.JPG",
+        "original_id": "santozaguan7_santoclosetHDSD"
+    },
+    "santozaguan8_santoclosetHDSD": {
+        "title": "Wardrobe Cabinet",
+        "description": "A wardrobe cabinet made of both kamagong and molave wood adorned with art nouveau inspired carvings in the beaded oval frame on two front doors. The hefty four legs support as well are carved.",
+        "recommendation": [
+            "santozaguan4_groupHDSD",
+            "santozaguan7_santoclosetHDSD",
+            "santozaguan5_closetHDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/official_relics/santozaguan8_santocloset.JPG",
+        "original_id": "santozaguan8_santoclosetHDSD"
+    },
+    "santozaguan9_filipiniana_dressHDSD": {
+        "title": "Baro't Saya (with panuelo)",
+        "description": "The traditional baro't saya worn by women. The see-through upper garment is called the Baro, made of sinamay abaca cloth with sleeves. This was paired with the Skirt (Saya), an abaca fiber hewn saya. Adapted from a popular costume worn by women during the high Renaissance, c. 1581, the full ankle-length skirt or saya consisted of a voluminous trailing skirt as part of its feature. Completing the ensemble were the piña and panuelo which is folded diagonally into a triangle and worn draped over the shoulders and chest.",
+        "recommendation": [
+            "santozaguan10_filipiniana_bluedressHDSD",
+            "2ndfloor_kitchen_prensademanoHDSD",
+            "2ndfloor_studyroom_indiv1HDSD"
+        ],
+        "room": "1st Floor: Galleria Guevarra (San Buenaventure-Guevarra Room)",
+        "asset": "assets/relics_images/santozaguan9_filipiniana_dressHDSD.JPG",
+        "original_id": "santozaguan9_filipiniana_dressHDSD"
+    },
+    "stagezaguan": {
+        "title": "Zaguan",
+        "description": "Zaguan is the ground floor storage areas. This part includes a Baby Grand Piano made of wood and ivory keys, with steel pedals and iron rollers on the feet; with inscription \"Brambach Piano Co. established in 1823\"; all keys are complete and in good working condition; of German craftsmanship; usually displayed in Sala Mayor or Living Room of a Bahay na Bato. Along with this is the wooden Piano Bench with short stretchers on each leg, with black leather upholstery; the upholstered part can be flipped open as covering of the small compartment serving as storage of musical sheets and piano song book. On the left side of the stage is a vintage Stained Glass Divider, free standing wood frame and colored stained glass dating to the late 1930's and of American craftmanship. Usual main function is to partition one room or area from the other.",
+        "recommendation": [
+            "tablezaguanHDSD",
+            "2ndfloor_livingarea_mariposachair",
+            "2ndfloor_santoroom_stainedglassHDSD"
+        ],
+        "room": "1st Floor: Zaguan (storage area)",
+        "asset": "assets/relics_images/stagezaguanSD.JPG",
+        "original_id": "stagezaguan"
+    },
+    "stairs_bastonsHDSD": {
+        "title": "Baston",
+        "description": "A wooden walking cane, Filipino craftmanship dating to the 1930's and made in the Philippines; normally used for assisting the owner in walking and correct balance and posture. These can be made from Kamagong hardwood and often has carved motifs and patterned designs such as swirl and floral. Some bastons also have carabao bones inlay.",
+        "recommendation": [
+            "stairs_hatsHDSD",
+            "zaguan_antingantinganHDSD",
+            "2ndfloor_kitchen_kalabawtoolHDSD"
+        ],
+        "room": "Stairs: Escalera Mayor Descanso (grand staircase)",
+        "asset": "assets/relics_images/stairs_bastonsHDSD.jpg",
+        "original_id": "stairs_bastonsHDSD"
+    },
+    "stairs_hatsHDSD": {
+        "title": "Salacot",
+        "description": "A traditional wide-brimmed hat in the Philippines, embossed with silver around the headgear's brim and finial. Many depictions of gobernadorcillos and cabezas de barangay would portray these public functionaries during the colonial period wearing ornate salakots. Some salacots are made of gourd embellished with dazzling finery of pounded silver plaques and finials in floral and leaf design",
+        "recommendation": [
+            "stairs_bastonsHDSD",
+            "2ndfloor_studyroom_indiv1HDSD",
+            "stairs_hatrackHDSD"
+        ],
+        "room": "Stairs: Escalera Mayor Descanso (grand staircase)",
+        "asset": "assets/relics_images/stairs_hatsHDSD.jpg",
+        "original_id": "stairs_hatsHDSD"
+    },
+    "stairs_hatrackHDSD": {
+        "title": "Hat and Cane Rack",
+        "description": "Rack for hats made of narra wood. Upper section consists of three (3) beams attached with short turnings for hanging hats. Lower section has twelve (12) holes for walking canes and twelve (12)  carved scrolls for umbrellas. Feet and posts are secured with a curvilinear wooden bracket. ",
+        "recommendation": [
+            "stairs_bastonsHDSD",
+            "stairs_hatsHDSD",
+            "2ndfloor_blueroom_pillowrackHDSD"
+        ],
+        "room": "Stairs: Escalera Mayor Descanso (grand staircase)",
+        "asset": "assets/relics_images/official_relics/stairs_hatrack.jpg",
+        "original_id": "stairs_hatrackHDSD"
+    },
+    "tablezaguanHDSD": {
+        "title": "Table",
+        "description": "Table - Large, oval dining table made of narra with bone inlay embellishment on tabletop. The uneven table rim is reeded. This table was formerly used as a refectory table by twenty nuns in a Bulacan convent.",
+        "recommendation": [
+            "stagezaguan",
+            "2ndfloor_table2",
+            "2ndfloor_table3"
+        ],
+        "room": "1st Floor: Zaguan (storage area)",
+        "asset": "assets/relics_images/official_relics/tablezaguan.jpg",
+        "original_id": "tablezaguanHDSD"
+    },
+    "vasezaguan_group1HDSD": {
+        "title": "Burial Jar Set 1",
+        "description": "Pot - A round palayok with curvature design in between the triangles on the shoulder and neck. This ancient earthenware of 1,000 years ago functions in both ceremonial and home use. ",
+        "recommendation": [
+            "vasezaguan_group2HDSD",
+            "vasezaguan_group3HDSD",
+            "vasezaguan_group4HDSD"
+        ],
+        "room": "1st Floor: Zaguan (storage area)",
+        "asset": "assets/relics_images/official_relics/vasezaguan_group1.JPG",
+        "original_id": "vasezaguan_group1HDSD"
+    },
+    "vasezaguan_group2HDSD": {
+        "title": "Burial Jar Set 2",
+        "description": "A jar made of clay unearthed in South Cotabato. It was used for secondary burial practices, that is, recovering the bones, or in some cases only the teeth, after sometime. They were then placed inside the vessels which were in turn buried. Usually, valuables of the deceased are also buried with them. Generally, the jars contain the funeral food offering or pabaon/ provisions for a journey. Its neck part or the flat surface leveling the mouth may be adorned with intricate geometric design of squares, triangles, circles and or dots.",
+        "recommendation": [
+            "vasezaguan_group3HDSD",
+            "vasezaguan_group1HDSD",
+            "vasezaguan_group4HDSD"
+        ],
+        "room": "1st Floor: Zaguan (storage area)",
+        "asset": "assets/relics_images/official_relics/vasezaguan_group2.JPG",
+        "original_id": "vasezaguan_group2HDSD"
+    },
+    "vasezaguan_group3HDSD": {
+        "title": "Burial Jar Set 3",
+        "description": "The semi-elliptical clay jar with base unearthed in South Cotabato. It was used for secondary burial practices, that is, recovering the bones, or in some cases only teeth, after sometime. They were then placed inside the vessels which were in turn buried. Usually, valuables of the dead are also buried with them. Generally, the jars contain the funeral food offering or pabaon/provisions for a journey. The other jars are pots, these globular jar that can be dated back as 1000 years in existence, and it is used in ceremonial rituals as well as practical home use. An iron age earthenware called “palayok.” ",
+        "recommendation": [
+            "vasezaguan_group2HDSD",
+            "vasezaguan_group1HDSD",
+            "2ndfloor_kitchen_bangaHDSD"
+        ],
+        "room": "1st Floor: Zaguan (storage area)",
+        "asset": "assets/relics_images/official_relics/vasezaguan_group3.JPG",
+        "original_id": "vasezaguan_group3HDSD"
+    },
+    "vasezaguan_group4HDSD": {
+        "title": "Limestone Burial Jar",
+        "description": "Limestone Jar (Burial Jar) - A Kuluman plateau limestone made burial jar found in Northern Cotabato dated ca 13th century Tang Dynasty. It is used to contain the bone of the dead person and his other valuables with human bones inside.",
+        "recommendation": [
+            "vasezaguan_group2HDSD",
+            "vasezaguan_group3HDSD",
+            "2ndfloor_kitchen_bangaHDSD"
+        ],
+        "room": "1st Floor: Zaguan (storage area)",
+        "asset": "assets/relics_images/official_relics/vasezaguan_group4.JPG",
+        "original_id": "vasezaguan_group4HDSD"
+    },
+    "zaguan_carozzafloatHDSD": {
+        "title": "Carroza",
+        "description": "A silver plated carroza used to procession religious images during feasts",
+        "recommendation": [
+            "vasezaguan_group1HDSD",
+            "2ndfloor_santoroom_headlessHDSD",
+            "2ndfloor_santoroom_shrineHDSD"
+        ],
+        "room": "1st Floor: Zaguan (storage area)",
+        "asset": "assets/relics_images/official_relics/zaguan_carozzafloat.jpg",
+        "original_id": "zaguan_carozzafloatHDSD"
+    }
+}
